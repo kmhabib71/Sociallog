@@ -1,0 +1,17 @@
+
+.shop_wrapper {
+    margin: 20px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+/*    justify-content: center;*/
+/*    align-content: center;*/
+    align-items: center;
+    
+}
+
+.shop_declaration {
+    height: 50%;
+    width: 50%;
+    border: 1px solid green;
+}

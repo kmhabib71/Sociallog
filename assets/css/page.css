@@ -1,0 +1,159 @@
+
+.pageContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+/*    width: 500px;*/
+    
+/*    background-color: aqua;*/
+}
+
+.pageCont {
+    background-color: none;
+    margin: 0px 80px;
+}
+
+.pageCoverPhoto {
+    width: 100%;
+        height: 250px;
+    background-color: aquamarine;
+    display: flex;
+/*    align-items: center;*/
+  
+    justify-content: center;
+
+    
+
+}
+
+.pageCovPhHolder img {
+    width: 100%;
+    height: 100%;
+}
+
+.pageCovPhHolder {
+    width: 100%;
+}
+
+.pageProfileHolder {
+    width: 150px;
+    height: 150px;
+    margin-top: -50%;
+/*    border-radius: 50%;*/
+/*        z-index: 99;*/
+
+}
+.pageProfileHolder img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    box-shadow: 0px 0px 10px gray;
+/*    z-index: 9;*/
+}
+
+.pageProfilePic {
+/*   display: flex;*/
+z-index: 9;
+    margin-left: -900px;
+/*    display: none;*/
+
+}
+
+.pageProfileBar {
+    
+    width: 100%;
+    height: 40px;
+    background: white;;
+    
+    margin-top: -70px;
+    padding: 0px 10px;
+    display: flex;
+/*    align-self: center;*/
+    align-items: center;
+/*    align-content: center;*/
+    justify-content: space-between;
+    z-index: 1;
+    box-shadow: 0px 1px 2px;
+    
+}
+
+.pageMainBody {
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+    background-color: white;
+    
+}
+
+.pageNavigation {
+    flex-basis: 20%;
+    border: 1px solid gray;
+    padding: 20px;
+}
+
+.pagePost {
+    flex-basis: 60%;
+    border: 1px solid gray;
+    padding: 20px;
+}
+.pagePosta {
+/*    flex-basis: 60%;*/
+/*    border: 1px solid gray;*/
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid gray;
+    
+    
+    
+}
+
+.pageRightPost {
+    flex-basis: 30%;
+    border: 1px solid gray;
+    padding: 20px;
+}
+82040010826
+
+
+
+
+
+
+
+
+.pagePostt {
+     flex-basis: 60%;
+    border: 1px solid gray;
+    padding: 20px;
+}
+
+
+
+.pageImage {
+    display: flex;
+    justify-content: space-between;
+}
+
+.pageTopSec {
+    display: flex;
+    flex-direction: row;
+}
+
+.pagePostMidSec {
+    margin: 20px;
+/*    display: flex;*/
+    text-align: center;
+    
+}
+
+.pageImageStatus {
+   
+    
+}
+
+.postImageWra {
+     display: flex;
+    flex-direction:row; 
+    align-items: center; 
+    justify-content: space-between;
+}
